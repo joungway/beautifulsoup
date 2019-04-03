@@ -53,3 +53,9 @@ with open("nationalpark.csv","w",encoding = "utf-8") as f:
 for state_url in states:
     data_encoding = get_data(state_url)
     process_data(data_encoding)
+
+
+
+
+
+# This assignment was done with Shi Lu together.
